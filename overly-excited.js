@@ -31,3 +31,4 @@ function addExcitement(theWordArray) {
 //Call the function "addExcitement" using theWordArray argument "sentence"
 addExcitement(sentence);
 
+//Still working this exercise...
