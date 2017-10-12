@@ -34,4 +34,4 @@ addExcitement(sentence, "!");
 //Call the function "addExcitement" using theWordArray argument "sentence" and character "?"
 addExcitement(sentence, "?")
 
-//Still working this exercise...Missing the step "addMoreExcitement"
+/*Still working this exercise...Missing the step "addMoreExcitement". looking for ways to try the str.repeat(); method.*/
